@@ -1,11 +1,12 @@
 # Hi, I'm Karan Singh Bisht 👋  
 
 🎓 **B.Tech Computer Science Engineering Student**  
-💡 Passionate about building practical projects and learning through real-world experience.
+💡 Curious learner | Aspiring Software Developer | Problem Solver  
 
-I enjoy working across multiple domains including **software development, web design,
-machine learning, and data analysis**, with a focus on writing clean code and
-solving real problems.
+I am a Computer Science Engineering student who enjoys **building practical projects**
+and learning by doing. I like exploring different areas of computer science such as
+**software development, web design, machine learning, and data analysis**, and applying
+them to real-world problems through hands-on projects and internships.
 
 ---
 
@@ -27,30 +28,48 @@ solving real problems.
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,tensorflow,git,github,vscode&theme=light" />
 </p>
 
+**What I work with:**
+- **Programming:** Python, C, C++, Java  
+- **Web Development:** HTML, CSS, basic JavaScript  
+- **Machine Learning & Data:** TensorFlow, data analysis fundamentals  
+- **Tools & Platforms:** Git, GitHub, VS Code, Google Colab, Jupyter Notebook  
+
 ---
 
 ## 🚀 Projects
-- **Pet Classification** – Image classification using TensorFlow  
-- **Spam Detection System** – NLP-based text classification  
-- **Object Detection** – Deep learning based object detection  
-- **Data Analysis Projects** – Analysis of real-world datasets  
+Some of the projects I’ve worked on include:
 
-👉 Check my repositories to explore these projects in detail.
+- **Pet Classification System**  
+  Image classification using CNNs and TensorFlow
+
+- **Spam Detection System**  
+  NLP-based text classification to detect spam messages
+
+- **Object Detection**  
+  Object detection using deep learning models
+
+- **Data Analysis Projects**  
+  Analysis and visualization of real-world datasets
+
+👉 You can explore all my projects in my repositories.
 
 ---
 
-## 📜 Certifications
-- AI Internship – 1Stop.ai  
-- Data Science Internship – Unified Mentor  
-- Data Science - HP Life
+## 📜 Certifications & Experience
+- **AI Internship** – 1Stop.ai  
+- **Data Science Internship** – Unified Mentor Pvt. Ltd.  
+- **Data Science** - HP Life
+
+These experiences helped me strengthen my **problem-solving skills, analytical thinking,
+and understanding of real-world applications**.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=karansinghbisht&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansinghbisht&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -58,7 +77,7 @@ solving real problems.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karansinghbisht&theme=tokyonight" />
 </p>
 
 ---
@@ -69,7 +88,7 @@ solving real problems.
   <a href="mailto:bishtsinghk@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/karan-singh-bisht-309b81336?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+  <a href="https://www.linkedin.com/in/karan-singh-bisht-309b81336/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/karanbishtt" target="_blank">
@@ -79,4 +98,5 @@ solving real problems.
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me!
+⭐ Feel free to explore my repositories and connect with me.  
+I’m always open to learning, collaboration, and new opportunities!

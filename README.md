@@ -22,8 +22,6 @@ with a strong focus on real-world problem solving.
 
 ## 💻 Skills & Technologies
 
-## 💻 Skills & Technologies
-
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>

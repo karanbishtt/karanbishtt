@@ -1,32 +1,32 @@
 # Hi, I'm Karan Singh Bisht 👋  
 
 🎓 **B.Tech Computer Science Engineering Student**  
-💡 Curious learner | Aspiring Software Developer | Problem Solver  
+💡 Curious learner | Aspiring Software Developer  
 
-I am a Computer Science Engineering student who enjoys **building practical projects**
-and learning by doing. I like exploring different areas of computer science such as
-**software development, web design, machine learning, and data analysis**, and applying
-them to real-world problems through hands-on projects and internships.
+I enjoy building **practical projects** and learning by doing.  
+My interests include **software development, web design, machine learning, and data analysis**,  
+with a strong focus on real-world problem solving.
 
 ---
 
 ## 🎓 Education
-- **Bachelor of Technology (B.Tech) – Computer Science & Engineering**  
-  *Amity University Rajasthan*  
+- **B.Tech – Computer Science & Engineering**  
+  *Amity University Rajasthan* (2023 – Present)
 
 ---
 
 ## 🌐 Portfolio
-🔗 **Personal Portfolio Website**  
-👉 https://karanbishtt.github.io
+🔗 https://karanbishtt.github.io
 
 ---
 
 ## 💻 Skills & Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,tensorflow,git,github,vscode&theme=light" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,tensorflow,git,github,vscode" />
 </p>
+
+---
 
 **What I work with:**
 - **Programming:** Python, C, C++, Java  
@@ -63,13 +63,18 @@ Some of the projects I’ve worked on include:
 These experiences helped me strengthen my **problem-solving skills, analytical thinking,
 and understanding of real-world applications**.
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karansinghbisht&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansinghbisht&layout=compact&theme=tokyonight" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=karansinghbisht&show_icons=true&count_private=true&include_all_commits=true&theme=default"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansinghbisht&layout=compact&theme=default"
+  />
 </p>
 
 ---
@@ -77,26 +82,27 @@ and understanding of real-world applications**.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karansinghbisht&theme=tokyonight" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=karansinghbisht&theme=default"
+  />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p>
   <a href="mailto:bishtsinghk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+    📧 Email
+  </a> |
   <a href="https://www.linkedin.com/in/karan-singh-bisht-309b81336/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+    💼 LinkedIn
+  </a> |
   <a href="https://github.com/karanbishtt" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    💻 GitHub
   </a>
 </p>
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me.  
-I’m always open to learning, collaboration, and new opportunities!
+⭐ Feel free to explore my repositories and connect with me!

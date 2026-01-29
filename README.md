@@ -22,19 +22,49 @@ with a strong focus on real-world problem solving.
 
 ## 💻 Skills & Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,tensorflow,git,github,vscode" />
-</p>
+## 💻 Skills & Technologies
 
----
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+  </a>
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+  </a>
+</p>
 
 **What I work with:**
 - **Programming:** Python, C, C++, Java  
-- **Web Development:** HTML, CSS, basic JavaScript  
-- **Machine Learning & Data:** TensorFlow, data analysis fundamentals  
-- **Tools & Platforms:** Git, GitHub, VS Code, Google Colab, Jupyter Notebook  
-
----
+- **Web Development:** HTML, CSS, JavaScript  
+- **Machine Learning & Data:** TensorFlow, Data Analysis  
+- **Tools:** Git, GitHub, VS Code, Google Colab, Jupyter Notebook  
 
 ## 🚀 Projects
 Some of the projects I’ve worked on include:

@@ -91,15 +91,6 @@ Some of the projects I’ve worked on include:
 These experiences helped me strengthen my **problem-solving skills, analytical thinking,
 and understanding of real-world applications**.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karanbishtt&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanbishtt&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p>
